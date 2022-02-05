@@ -27,10 +27,63 @@ Previous Exams
 
 The scanned files in the following table are the best image quality available.
 
-| EXAMS | SOLUTIONS |
-| --- | --- |
-| Exam 1 - 2004 ([PDF]({{< baseurl >}}/resources/exam1_2004)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam1_2004soln)) |
-| Exam 1 - 2003 ([PDF]({{< baseurl >}}/resources/exam1_2003)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam1_2003soln)) |
-| Exam 2 - 2004 ([PDF]({{< baseurl >}}/resources/exam2_2004)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam2_2004soln)) |
-| Exam 2 - 2003 ([PDF]({{< baseurl >}}/resources/exam2_2003)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam2_2003soln)) |
-| Final Exam - 2004 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam_final_2004)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/examfinl2004solnpdf))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EXAMS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam 1 - 2004 ([PDF]({{< baseurl >}}/resources/exam1_2004))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam1_2004soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam 1 - 2003 ([PDF]({{< baseurl >}}/resources/exam1_2003))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam1_2003soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam 2 - 2004 ([PDF]({{< baseurl >}}/resources/exam2_2004))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam2_2004soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam 2 - 2003 ([PDF]({{< baseurl >}}/resources/exam2_2003))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam2_2003soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam - 2004 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam_final_2004))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/examfinl2004solnpdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
