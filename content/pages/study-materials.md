@@ -45,7 +45,7 @@ SOLUTIONS
 Exam 1 - 2004 ([PDF]({{< baseurl >}}/resources/exam1_2004))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam1_2004soln))
+([PDF]({{< baseurl >}}/resources/exam1_2004soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +54,7 @@ Exam 1 - 2004 ([PDF]({{< baseurl >}}/resources/exam1_2004))
 Exam 1 - 2003 ([PDF]({{< baseurl >}}/resources/exam1_2003))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam1_2003soln))
+([PDF]({{< baseurl >}}/resources/exam1_2003soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +63,7 @@ Exam 1 - 2003 ([PDF]({{< baseurl >}}/resources/exam1_2003))
 Exam 2 - 2004 ([PDF]({{< baseurl >}}/resources/exam2_2004))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam2_2004soln))
+([PDF]({{< baseurl >}}/resources/exam2_2004soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,16 +72,16 @@ Exam 2 - 2004 ([PDF]({{< baseurl >}}/resources/exam2_2004))
 Exam 2 - 2003 ([PDF]({{< baseurl >}}/resources/exam2_2003))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam2_2003soln))
+([PDF]({{< baseurl >}}/resources/exam2_2003soln))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Final Exam - 2004 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam_final_2004))
+Final Exam - 2004 ([PDF]({{< baseurl >}}/resources/exam_final_2004))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/examfinl2004solnpdf))
+([PDF]({{< baseurl >}}/resources/examfinl2004solnpdf))
 {{< tdclose >}}
 
 {{< trclose >}}
