@@ -5,6 +5,7 @@ description: This resource contains added mass, general 6 DOF forces and moments
   theory.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-016-hydrodynamics-13-012-fall-2005/6124a1fd14e811d9ea753f85e0dfc8d0_2005reading6.pdf
 file_type: application/pdf
+parent_uid: acd70d52-ee88-6cbd-a959-96da74024551
 resourcetype: Document
 title: 2005reading6.pdf
 uid: 6124a1fd-14e8-11d9-ea75-3f85e0dfc8d0

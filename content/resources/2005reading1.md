@@ -4,6 +4,7 @@ description: This resource contains hydrodynamics v. aerodynamics, basic fluid p
   and physical properties of a fluid.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-016-hydrodynamics-13-012-fall-2005/dc299d2ff05553b3515dccc23fc0f7d2_2005reading1.pdf
 file_type: application/pdf
+parent_uid: acd70d52-ee88-6cbd-a959-96da74024551
 resourcetype: Document
 title: 2005reading1.pdf
 uid: dc299d2f-f055-53b3-515d-ccc23fc0f7d2
